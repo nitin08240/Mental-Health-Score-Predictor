@@ -1,4 +1,4 @@
-﻿# Mental-Health-Score-Predictor
+
 # 🧠 Mental Health Score Predictor
 
 A Machine Learning web application that predicts a student's **mental health score** based on social-media usage, academic habits, lifestyle, and stress level.
